@@ -17,7 +17,10 @@ Any startup looking to grow and needs support with technical leadership
 
 ### 📫 How to reach me: ...
 ---
-  <a href='https://github.com/varunmehta/' target='_blank' alt="GitHub"> Github</a>
+
+<p style="text-align:center;">
+    <strong>
+   <a href='https://github.com/varunmehta/' target='_blank' alt="GitHub">Github</a>
  | 
   <a href='https://www.linkedin.com/in/varunrmehta' target='_blank' alt="LinkedIn">LinkedIn</a>
  | 
@@ -27,7 +30,9 @@ Any startup looking to grow and needs support with technical leadership
  |
   <a href='https://www.printables.com/@emortal_2112934' target='_blank' alt="Printables">Printables</a>
  | 
-  <a href='https://bsky.app/profile/varunmehta.bsky.social' target='_blank' alt="BlueSky">BlueSky</a>
+  <a href='https://bsky.app/profile/varunmehta.bsky.social' target='_blank' alt="BlueSky">BlueSky</a> 
+  </strong>
+</p>
 
 ---
 
