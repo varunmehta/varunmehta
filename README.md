@@ -20,30 +20,33 @@ Any startup looking to grow and needs support with technical leadership
 
 <p style="text-align:center;">
     <strong>
-   <a href='https://github.com/varunmehta/' target='_blank' alt="GitHub">Github</a>
- | 
-  <a href='https://www.linkedin.com/in/varunrmehta' target='_blank' alt="LinkedIn">LinkedIn</a>
- | 
-  <a href='https://www.flickr.com/photos/varunmehta/' target='_blank' alt="Flickr">Flickr</a>
- | 
-  <a href='https://www.strava.com/athletes/1766863' target='_blank' alt="Strava">Strava</a>
- |
-  <a href='https://www.printables.com/@emortal_2112934' target='_blank' alt="Printables">Printables</a>
- | 
-  <a href='https://bsky.app/profile/varunmehta.bsky.social' target='_blank' alt="BlueSky">BlueSky</a> 
+      <a href='https://www.linkedin.com/in/varunrmehta' target='_blank' alt="LinkedIn">LinkedIn</a>
+    | 
+      <a href='https://github.com/varunmehta/' target='_blank' alt="GitHub">Github</a>
+    | 
+      <a href='https://www.flickr.com/photos/varunmehta/' target='_blank' alt="Flickr">Flickr</a>
+    | 
+      <a href='https://www.strava.com/athletes/1766863' target='_blank' alt="Strava">Strava</a>
+    |
+      <a href='https://www.printables.com/@emortal_2112934' target='_blank' alt="Printables">Printables</a>
+    | 
+      <a href='https://bsky.app/profile/varunmehta.bsky.social' target='_blank' alt="BlueSky">BlueSky</a> 
   </strong>
 </p>
 
 ---
 
-
 ## Interesting Projects
  * [AWS IoT Garage](https://github.com/varunmehta/aws-iot-garage-controller)
-    * Part of [Slalom's](https://slalom.com) hackathon project
+    * Part of [Slalom IoT hackathon](https://hackathon.slalom.com/hackathons/internet-of-things), my team was [OpenSesame](https://hackathon.slalom.com/teams/open-sesame)
  * [OpenAstroTracker](https://openastrotech.com/)
  * [OpenFlexure Microscope](https://openflexure.org/projects/microscope/) 
  * [LeRobot](https://github.com/huggingface/lerobot)
-    * Ordering hardware for this has been tougher than usual
+    > Ordering hardware for this has been tougher than usual
+
+## Brain Eating Machines
+
+https://braineatingmachines.com
 
 ## TODO
  * [ ] Get latest posts to show up here.
