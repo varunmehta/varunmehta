@@ -16,6 +16,8 @@ LeRobot and how it help accelerate robotics with AI
 Any startup looking to grow and needs support with technical leadership
 
 ### 📫 How to reach me: ...
+[Schedule a Call or Online Meeting](https://calendly.com/varun-mehta-r/30min)
+
 ---
 
 <p style="text-align:center;">
