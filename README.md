@@ -6,8 +6,7 @@ and deliver $8M+ in business impact. Expert in microservices, DevOps, data platf
 record of shipping scalable systems across adtech media, robotics, fintech, and insurance sectors
 
 ### 🔭 I’m currently working on ... 
-
-Consolidating all my old articles and blogs in one location
+Consolidating all my old articles and blogs in one [location](https://varunmehta.github.io/). Check them out here; https://varunmehta.github.io/ 
 
 ### 🌱 I’m currently learning ...
 LeRobot and how it help accelerate robotics with AI 
