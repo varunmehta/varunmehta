@@ -1,18 +1,17 @@
 ## Varun Mehta 👋
 
-Engineering Executive with 20+ years leading cloud-native transformations, platform modernization, and new product
-development at scale. Proven ability to build high-velocity engineering organizations, reduce engineering costs by 50%,
-and deliver $8M+ in business impact. Expert in microservices, DevOps, data platforms, and ML operations with a track
-record of shipping scalable systems across adtech media, robotics, fintech, and insurance sectors
+Strategic & Hands-On Engineering Leader with 12+ years of software engineering experience, and 5+ years leading engineering managers and tech leads, delivering high-impact products. Proven track record scaling teams, architecting cloud-native platforms, improving DevOps maturity. Expert in matrix organizations, partnering with Product, Architecture, and executive stakeholders to drive technical strategy and accelerate business outcomes across adtech media, robotics and fintech.
 
 ### 🔭 I’m currently working on ... 
-Consolidating all my old articles and blogs in one [location](https://varunmehta.github.io/). Check them out here; https://varunmehta.github.io/ 
+Coaching teams for [FIRST](https://www.firstinspires.org/) youth robotics, guiding them with design, coding and competition.
+
+For past projects read my blog at [https://varunmehta.github.io/](https://varunmehta.github.io/) 
 
 ### 🌱 I’m currently learning ...
-LeRobot and how it help accelerate robotics with AI 
+Revisiting deep learning fundamentals and cruising through [MIT's high-intensity bootcamp](https://introtodeeplearning.com/2025/index.html) designed to teach you the fundamentals of deep learning.
 
 ###  👯 I’m looking to collaborate on ...
-Any startup looking to grow and needs support with technical leadership
+Any robotics or fintech startup looking to grow and needs support with technical leadership
 
 ### 📫 How to reach me: ...
 [Schedule a Call or Online Meeting](https://calendly.com/varun-mehta-r/30min)
@@ -36,31 +35,3 @@ Any startup looking to grow and needs support with technical leadership
 </p>
 
 ---
-
-## Interesting Projects
- * [AWS IoT Garage](https://github.com/varunmehta/aws-iot-garage-controller)
-    * Part of [Slalom IoT hackathon](https://hackathon.slalom.com/hackathons/internet-of-things), my team was [OpenSesame](https://hackathon.slalom.com/teams/open-sesame)
- * [OpenAstroTracker](https://openastrotech.com/)
- * [OpenFlexure Microscope](https://openflexure.org/projects/microscope/) 
- * [LeRobot](https://github.com/huggingface/lerobot)
-    > Ordering hardware for this has been tougher than usual
-
-## Brain Eating Machines
-
-https://braineatingmachines.com
-
-## TODO
- * [ ] Get latest posts to show up here.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
