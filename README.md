@@ -3,7 +3,7 @@
 Strategic & Hands-On Engineering Leader with 12+ years of software engineering experience, and 5+ years leading engineering managers and tech leads, delivering high-impact products. Proven track record scaling teams, architecting cloud-native platforms, improving DevOps maturity. Expert in matrix organizations, partnering with Product, Architecture, and executive stakeholders to drive technical strategy and accelerate business outcomes across adtech media, robotics and fintech.
 
 ### 🔭 I’m currently working on ... 
-Coaching teams for [FIRST](https://www.firstinspires.org/) youth robotics, guiding them with design, coding and competition.
+Coaching teams for [FIRST](https://www.firstinspires.org/) youth robotics, guiding them through design, coding and competition.
 
 For past projects read my blog at [https://varunmehta.github.io/](https://varunmehta.github.io/) 
 
